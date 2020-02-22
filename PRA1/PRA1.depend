@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1581689702 source:c:\users\cx\documents\u\2019s2\dic\edd\pra1\main.cpp
+	<iostream>
+	"curses.h"
+
+1216149206 c:\program files (x86)\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1581724745 source:c:\users\cx\documents\u\2020s1\edd\pra1\edd\nododoble.cpp
+	"nododoble.h"
+
+1581611430 c:\users\cx\documents\u\2020s1\edd\pra1\edd\nododoble.h
+	<string>
+
+1582383254 source:c:\users\cx\documents\u\2020s1\edd\pra1\main.cpp
+	<iostream>
+	"curses.h"
+	"Objetos/pantallas.h"
+	"EDD/listadoble.h"
+	"EDD/nododoble.h"
+
+1581726800 source:c:\users\cx\documents\u\2020s1\edd\pra1\edd\listadoble.cpp
+	"listadoble.h"
+	<string>
+	<iostream>
+	"string"
+	"iostream"
+	<fstream>
+	<sstream>
+
+1581726781 c:\users\cx\documents\u\2020s1\edd\pra1\edd\listadoble.h
+	"nododoble.h"
+
+1582382455 c:\users\cx\documents\u\2020s1\edd\pra1\objetos\pantallas.h
+	<curses.h>
+	<string.h>
+	<fstream>
+
